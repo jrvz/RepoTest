@@ -11,7 +11,7 @@
     <div>
     
     </div>
-        <asp:Button ID="Button1" runat="server" Text="Button" Width="132px" />
+        <asp:Button ID="Button1" runat="server" Text="No se sabe que hace" Width="132px" />
     </form>
 </body>
 </html>
